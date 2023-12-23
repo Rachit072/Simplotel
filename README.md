@@ -1,6 +1,6 @@
 # Simplotel Food App
 
-The Simplotel Food App is a static website designed to provide information about a restaurant. It features a navigation bar, a main content section with a headline and description, and a button to navigate to another page. The website is designed to be responsive and includes a simple menu bar icon for mobile devices.
+The Simplotel Food App is a static website designed to provide information about a restaurant. It features a navigation bar, a main content section with a headline and description, and a button to navigate to another page.
 
 ## Features
 
